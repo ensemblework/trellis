@@ -1,0 +1,11 @@
+{
+  "name": "trellis",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A minimal IDE + terminal, observed by an AI agent that teaches instead of doing the work for you.",
+  "license": "MIT",
+  "packageManager": "pnpm@9.0.0",
+  "scripts": {
+    "setup": "bash scripts/setup.sh"
+  }
+}
